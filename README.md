@@ -5,3 +5,5 @@
 3. Activated the conda environment " conda activate env"
 4. execute python template.py file
 5. pushed to the git
+
+6. entered required libraries into requirements.txt which ended with -e . (refers to the setup.py file)
